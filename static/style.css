@@ -1,1 +1,23 @@
 /* Put your CSS Styling here! */
+body {
+   background-image: url("m.jpg");
+   background-repeat: no-repeat;
+   background-size:cover;
+/*   font-family: 'Press Start 2P', cursive;
+*/   }
+
+h1{
+	color:white;
+	text-align: center;
+}
+
+p{
+	color:white;
+	text-align: center;	
+}
+
+header{
+	color:white;
+	text-align: center;
+
+}
